@@ -6,5 +6,5 @@ logging.basicConfig(
 )
 logger = logging.getLogger()
 while True:
-    logger.info("Hello! My name is Valya!")
+    logger.info("Hello! My name is Valya!!!")
     time.sleep(20)
